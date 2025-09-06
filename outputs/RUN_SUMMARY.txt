@@ -1,0 +1,15 @@
+Pusula Data Science Intern Case — Run Summary
+Data path          : /Users/onurkarasurmeli/PycharmProjects/PUSULA/Pusula_Talent_Academy/Talent_Academy_Case_DT_2025.xlsx
+Outputs directory  : /Users/onurkarasurmeli/PycharmProjects/PUSULA/Pusula_Talent_Academy/outputs
+
+Raw rows           : 2235
+Rows after cleaning: 1273 (removed 962 exact duplicates)
+Feature matrix     : 1273 rows × 103 features
+Target column      : TedaviSuresi
+
+Artifacts:
+ - dataset_cleaned.csv
+ - X_prepared.csv
+ - y_target.csv
+ - preprocess_pipeline.joblib
+ - figures/ (charts saved here)
